@@ -13,6 +13,6 @@
 
 echo Running Task ID $SLURM_ARRAY_TASK_ID
 
-python -u CAFE_parallel.py $SLURM_ARRAY_TASK_ID
+python -u run_cafe_parallel.py $SLURM_ARRAY_TASK_ID
 
 exit
