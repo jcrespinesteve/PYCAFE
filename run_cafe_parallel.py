@@ -11,7 +11,7 @@ import datetime
 import time
 
 # Time range
-ts = pd.date_range("2010-01-01", "2023-12-31", freq="MS")
+ts = pd.date_range("2003-01-01", "2023-12-31", freq="MS")
 outdir = "/Net/Groups/BGI/work_2/jcrespin/cafe_outputs"
 indir = "/Net/Groups/BGI/work_2/jcrespin/cafe_inputs"
 
