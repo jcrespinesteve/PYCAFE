@@ -5,7 +5,7 @@
 PYCAFE MODEL (December, 2024)
 
 Description:
-    Computes daily net primary production following the Carbon, Absorption, Fluorescence
+    Computes monthly net primary production following the Carbon, Absorption, Fluorescence
     Euphotic-resolving (CAFE) model. For a full description of the original model, please see:
 
         Silsbe, G.M., M.J. Behrenfeld, K.H. Halsey, A.J. Milligan, and T.K. Westberry. 2016.
