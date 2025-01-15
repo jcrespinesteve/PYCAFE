@@ -2,9 +2,8 @@
 
 'PyCAFE' model computes monthly net primary production following the Carbon, Absorption, Fluorescence Euphotic-resolving (CAFE) model. It was rewritten in Python to perform computations across latitude and longitude chunks for efficient processing of spatial data.
 
-- For a full description of the original model, please see:
-  Silsbe, G.M., M.J. Behrenfeld, K.H. Halsey, A.J. Milligan, and T.K. Westberry. 2016.  
-  The CAFE model. A net production model for global ocean phytoplankton. Global Biogeochemical Cycles. doi: 10.1002/2016GB005521.
+For a full description of the original model, please see:
+Silsbe, G.M., M.J. Behrenfeld, K.H. Halsey, A.J. Milligan, and T.K. Westberry. 2016. The CAFE model. A net production model for global ocean phytoplankton. Global Biogeochemical Cycles. doi: 10.1002/2016GB005521.
 
 ## Model Inputs:
 - **PAR** (shape: lat, lon)     : Daily photosynthetic active radiation [mol photons m^-2 day^-1].
